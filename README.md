@@ -11,11 +11,13 @@ This project requires an environment in which to run Python scripts, such as VS 
 ## Installation
 1. Clone the repo:
    ```git
-      git clone https://github.com/bliss-hums/Gradient-Descent-and-Nesterov-s-Accelerated-Gradient-```
+   git clone https://github.com/bliss-hums/Gradient-Descent-and-Nesterov-s-Accelerated-Gradient-
+   ```
 3. Change git remote URL:
    ```git
-      git remote set-url origin <new-url>
-      git remote -v```
+   git remote set-url origin <new-url>
+   git remote -v
+   ```
 # Usage
 After installation, run the Python scripts in sequence. Each one will output a graph with the convergence analysis of GD and NAG for a specific function. All results are explained in the Technical Report PDF.
 
