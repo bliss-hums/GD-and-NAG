@@ -13,6 +13,10 @@ This project requires an environment in which to run Python scripts, such as VS 
    ```git
    git clone https://github.com/bliss-hums/Gradient-Descent-and-Nesterov-s-Accelerated-Gradient-
    ```
+2. Navigate to the directory:
+   ```git
+   cd Gradient-Descent-and-Nesterov-s-Accelerated-Gradient-
+   ```
 3. Change git remote URL:
    ```git
    git remote set-url origin <new-url>
