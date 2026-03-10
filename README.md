@@ -22,6 +22,11 @@ This project requires an environment in which to run Python scripts, such as VS 
    git remote set-url origin <new-url>
    git remote -v
    ```
+4. Download required libraries if necessary:
+   ```git
+   python -m pip install numpy
+   python -m pip install matplotlib
+   ```
 # Usage
 After installation, run the Python scripts in sequence. Each one will output a graph with the convergence analysis of GD and NAG for a specific function. All results are explained in the Technical Report PDF.
 
